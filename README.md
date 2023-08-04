@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Stepwise e overdisp no Python:
+em overdisp de statstests.tests e em stepwise de stepwise_process.statsmodels
 try:
         formula = model.model.data.ynames + " ~ " + \
             ' + '.join(model.model.data.xnames[1:])
