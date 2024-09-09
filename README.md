@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-## Stepwise e overdisp no Python:
+
+## Stepwise and overdisp with Python<continue>:
 em overdisp de statstests.tests e em stepwise de stepwise_process.statsmodels
 try:
         formula = model.model.data.ynames + " ~ " + \
@@ -32,3 +32,4 @@ try:
 
 ## Dúvidas
 Professor, vou tentar simplificar bem: em uma estrutura hierárquica tempo em semanas nível 1, departamento nível 2 e lojas nível 3, mas departemanto não tem variável de contexto, só a dependente Vendas Semanais. Lojas tem variável de contexto e o resto varia com o tempo e entrou no nível um. O gráfico de frequência de Vendas semanais sugere o uso de modelo Poisson. Mesmo sendo este nível 2 um modelo nulo não posso usar hlm3 linear ao invés de multinível para dados de contagem?
+-->
